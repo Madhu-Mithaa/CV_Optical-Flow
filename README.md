@@ -8,4 +8,8 @@
 
 **Flow-Net:** FlowNet architecture was introduced in 2015 as the first CNN approach to predict Optical Flow. Authors were inspired by the successful results of CNN architectures in classification, depth estimation, and semantic segmentation tasks. As Deep Learning approaches and CNNs have become a profitable strategy to solve many Computer Vision tasks, authors, in turn, introduced two neural networks for the Optical Flow estimation.
 
+## Contributors
+Vijayasri Iyer & Madhumithaa V
+
+
 
