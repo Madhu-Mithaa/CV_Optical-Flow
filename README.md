@@ -1,5 +1,5 @@
 # Optical-Flow
-# Feature Detection/Descriptor/Feature Matching
+# Feature Detection/Descriptor/Matching
 
 **ORB** : ORB is basically a fusion of FAST key point detector and BRIEF descriptor with many modifications to enhance the performance.
 
